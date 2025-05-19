@@ -1,0 +1,541 @@
+prompt,question,short_answer,question_type,story_index,qa_prompt,comp_prompt
+Neila and Juanita were hanging out in the attic. They saw a bag and a pantry. They found a plate in the bag. Juanita left the attic. Neila moved the plate to the pantry.,"After Juanita came back to the attic, where would Juanita look for the plate?",bag,1stB,1,"Answer the question based on context:
+
+Context:Neila and Juanita were hanging out in the attic. They saw a bag and a pantry. They found a plate in the bag. Juanita left the attic. Neila moved the plate to the pantry.
+Question:
+After Juanita came back to the attic, where would Juanita look for the plate?","Complete the following paragraph:
+Neila and Juanita were hanging out in the attic. They saw a bag and a pantry. They found a plate in the bag. Juanita left the attic. Neila moved the plate to the pantry. After Juanita came back to the attic, Juanita would look for the plate in"
+Neila and Juanita were hanging out in the attic. They saw a bag and a pantry. They found a plate in the bag. Juanita left the attic. Neila moved the plate to the pantry.,"After Juanita came back to the attic, where would Neila think Juanita would look for the plate?",bag,2ndA,1,"Answer the question based on context:
+
+Context:Neila and Juanita were hanging out in the attic. They saw a bag and a pantry. They found a plate in the bag. Juanita left the attic. Neila moved the plate to the pantry.
+Question:
+After Juanita came back to the attic, where would Neila think Juanita would look for the plate?","Complete the following paragraph:
+Neila and Juanita were hanging out in the attic. They saw a bag and a pantry. They found a plate in the bag. Juanita left the attic. Neila moved the plate to the pantry. After Juanita came back to the attic, Neila would think Juanita would look for the plate in"
+Neila and Juanita were hanging out in the attic. They saw a bag and a pantry. They found a plate in the bag. Juanita left the attic. Neila moved the plate to the pantry.,"After Juanita came back to the attic, where would Juanita think Neila would look for the plate?",bag,2ndB,1,"Answer the question based on context:
+
+Context:Neila and Juanita were hanging out in the attic. They saw a bag and a pantry. They found a plate in the bag. Juanita left the attic. Neila moved the plate to the pantry.
+Question:
+After Juanita came back to the attic, where would Juanita think Neila would look for the plate?","Complete the following paragraph:
+Neila and Juanita were hanging out in the attic. They saw a bag and a pantry. They found a plate in the bag. Juanita left the attic. Neila moved the plate to the pantry. After Juanita came back to the attic, Juanita would think Neila would look for the plate in"
+Sabra and Hillary were hanging out in the bedroom. They saw a hamper and a refrigerator. They found a fork in the hamper. Hillary left the bedroom. Sabra moved the fork to the refrigerator.,"After Hillary came back to the bedroom, where would Hillary look for the fork?",hamper,1stB,2,"Answer the question based on context:
+
+Context:Sabra and Hillary were hanging out in the bedroom. They saw a hamper and a refrigerator. They found a fork in the hamper. Hillary left the bedroom. Sabra moved the fork to the refrigerator.
+Question:
+After Hillary came back to the bedroom, where would Hillary look for the fork?","Complete the following paragraph:
+Sabra and Hillary were hanging out in the bedroom. They saw a hamper and a refrigerator. They found a fork in the hamper. Hillary left the bedroom. Sabra moved the fork to the refrigerator. After Hillary came back to the bedroom, Hillary would look for the fork in"
+Sabra and Hillary were hanging out in the bedroom. They saw a hamper and a refrigerator. They found a fork in the hamper. Hillary left the bedroom. Sabra moved the fork to the refrigerator.,"After Hillary came back to the bedroom, where would Sabra think Hillary would look for the fork?",hamper,2ndA,2,"Answer the question based on context:
+
+Context:Sabra and Hillary were hanging out in the bedroom. They saw a hamper and a refrigerator. They found a fork in the hamper. Hillary left the bedroom. Sabra moved the fork to the refrigerator.
+Question:
+After Hillary came back to the bedroom, where would Sabra think Hillary would look for the fork?","Complete the following paragraph:
+Sabra and Hillary were hanging out in the bedroom. They saw a hamper and a refrigerator. They found a fork in the hamper. Hillary left the bedroom. Sabra moved the fork to the refrigerator. After Hillary came back to the bedroom, Sabra would think Hillary would look for the fork in"
+Sabra and Hillary were hanging out in the bedroom. They saw a hamper and a refrigerator. They found a fork in the hamper. Hillary left the bedroom. Sabra moved the fork to the refrigerator.,"After Hillary came back to the bedroom, where would Hillary think Sabra would look for the fork?",hamper,2ndB,2,"Answer the question based on context:
+
+Context:Sabra and Hillary were hanging out in the bedroom. They saw a hamper and a refrigerator. They found a fork in the hamper. Hillary left the bedroom. Sabra moved the fork to the refrigerator.
+Question:
+After Hillary came back to the bedroom, where would Hillary think Sabra would look for the fork?","Complete the following paragraph:
+Sabra and Hillary were hanging out in the bedroom. They saw a hamper and a refrigerator. They found a fork in the hamper. Hillary left the bedroom. Sabra moved the fork to the refrigerator. After Hillary came back to the bedroom, Hillary would think Sabra would look for the fork in"
+Cassandre and Norina were hanging out in the study. They saw a carryall and a hamper. They found a hoodie in the carryall. Norina left the study. Cassandre moved the hoodie to the hamper.,"After Norina came back to the study, where would Norina look for the hoodie?",carryall,1stB,3,"Answer the question based on context:
+
+Context:Cassandre and Norina were hanging out in the study. They saw a carryall and a hamper. They found a hoodie in the carryall. Norina left the study. Cassandre moved the hoodie to the hamper.
+Question:
+After Norina came back to the study, where would Norina look for the hoodie?","Complete the following paragraph:
+Cassandre and Norina were hanging out in the study. They saw a carryall and a hamper. They found a hoodie in the carryall. Norina left the study. Cassandre moved the hoodie to the hamper. After Norina came back to the study, Norina would look for the hoodie in"
+Cassandre and Norina were hanging out in the study. They saw a carryall and a hamper. They found a hoodie in the carryall. Norina left the study. Cassandre moved the hoodie to the hamper.,"After Norina came back to the study, where would Cassandre think Norina would look for the hoodie?",carryall,2ndA,3,"Answer the question based on context:
+
+Context:Cassandre and Norina were hanging out in the study. They saw a carryall and a hamper. They found a hoodie in the carryall. Norina left the study. Cassandre moved the hoodie to the hamper.
+Question:
+After Norina came back to the study, where would Cassandre think Norina would look for the hoodie?","Complete the following paragraph:
+Cassandre and Norina were hanging out in the study. They saw a carryall and a hamper. They found a hoodie in the carryall. Norina left the study. Cassandre moved the hoodie to the hamper. After Norina came back to the study, Cassandre would think Norina would look for the hoodie in"
+Cassandre and Norina were hanging out in the study. They saw a carryall and a hamper. They found a hoodie in the carryall. Norina left the study. Cassandre moved the hoodie to the hamper.,"After Norina came back to the study, where would Norina think Cassandre would look for the hoodie?",carryall,2ndB,3,"Answer the question based on context:
+
+Context:Cassandre and Norina were hanging out in the study. They saw a carryall and a hamper. They found a hoodie in the carryall. Norina left the study. Cassandre moved the hoodie to the hamper.
+Question:
+After Norina came back to the study, where would Norina think Cassandre would look for the hoodie?","Complete the following paragraph:
+Cassandre and Norina were hanging out in the study. They saw a carryall and a hamper. They found a hoodie in the carryall. Norina left the study. Cassandre moved the hoodie to the hamper. After Norina came back to the study, Norina would think Cassandre would look for the hoodie in"
+Clio and Daphene were hanging out in the garage. They saw a pantry and a safe. They found a key in the pantry. Daphene left the garage. Clio moved the key to the safe.,"After Daphene came back to the garage, where would Daphene look for the key?",pantry,1stB,4,"Answer the question based on context:
+
+Context:Clio and Daphene were hanging out in the garage. They saw a pantry and a safe. They found a key in the pantry. Daphene left the garage. Clio moved the key to the safe.
+Question:
+After Daphene came back to the garage, where would Daphene look for the key?","Complete the following paragraph:
+Clio and Daphene were hanging out in the garage. They saw a pantry and a safe. They found a key in the pantry. Daphene left the garage. Clio moved the key to the safe. After Daphene came back to the garage, Daphene would look for the key in"
+Clio and Daphene were hanging out in the garage. They saw a pantry and a safe. They found a key in the pantry. Daphene left the garage. Clio moved the key to the safe.,"After Daphene came back to the garage, where would Clio think Daphene would look for the key?",pantry,2ndA,4,"Answer the question based on context:
+
+Context:Clio and Daphene were hanging out in the garage. They saw a pantry and a safe. They found a key in the pantry. Daphene left the garage. Clio moved the key to the safe.
+Question:
+After Daphene came back to the garage, where would Clio think Daphene would look for the key?","Complete the following paragraph:
+Clio and Daphene were hanging out in the garage. They saw a pantry and a safe. They found a key in the pantry. Daphene left the garage. Clio moved the key to the safe. After Daphene came back to the garage, Clio would think Daphene would look for the key in"
+Clio and Daphene were hanging out in the garage. They saw a pantry and a safe. They found a key in the pantry. Daphene left the garage. Clio moved the key to the safe.,"After Daphene came back to the garage, where would Daphene think Clio would look for the key?",pantry,2ndB,4,"Answer the question based on context:
+
+Context:Clio and Daphene were hanging out in the garage. They saw a pantry and a safe. They found a key in the pantry. Daphene left the garage. Clio moved the key to the safe.
+Question:
+After Daphene came back to the garage, where would Daphene think Clio would look for the key?","Complete the following paragraph:
+Clio and Daphene were hanging out in the garage. They saw a pantry and a safe. They found a key in the pantry. Daphene left the garage. Clio moved the key to the safe. After Daphene came back to the garage, Daphene would think Clio would look for the key in"
+Melania and Krysta were hanging out in the living room. They saw a safe and a crate. They found a vest in the safe. Krysta left the living room. Melania moved the vest to the crate.,"After Krysta came back to the living room, where would Krysta look for the vest?",safe,1stB,5,"Answer the question based on context:
+
+Context:Melania and Krysta were hanging out in the living room. They saw a safe and a crate. They found a vest in the safe. Krysta left the living room. Melania moved the vest to the crate.
+Question:
+After Krysta came back to the living room, where would Krysta look for the vest?","Complete the following paragraph:
+Melania and Krysta were hanging out in the living room. They saw a safe and a crate. They found a vest in the safe. Krysta left the living room. Melania moved the vest to the crate. After Krysta came back to the living room, Krysta would look for the vest in"
+Melania and Krysta were hanging out in the living room. They saw a safe and a crate. They found a vest in the safe. Krysta left the living room. Melania moved the vest to the crate.,"After Krysta came back to the living room, where would Melania think Krysta would look for the vest?",safe,2ndA,5,"Answer the question based on context:
+
+Context:Melania and Krysta were hanging out in the living room. They saw a safe and a crate. They found a vest in the safe. Krysta left the living room. Melania moved the vest to the crate.
+Question:
+After Krysta came back to the living room, where would Melania think Krysta would look for the vest?","Complete the following paragraph:
+Melania and Krysta were hanging out in the living room. They saw a safe and a crate. They found a vest in the safe. Krysta left the living room. Melania moved the vest to the crate. After Krysta came back to the living room, Melania would think Krysta would look for the vest in"
+Melania and Krysta were hanging out in the living room. They saw a safe and a crate. They found a vest in the safe. Krysta left the living room. Melania moved the vest to the crate.,"After Krysta came back to the living room, where would Krysta think Melania would look for the vest?",safe,2ndB,5,"Answer the question based on context:
+
+Context:Melania and Krysta were hanging out in the living room. They saw a safe and a crate. They found a vest in the safe. Krysta left the living room. Melania moved the vest to the crate.
+Question:
+After Krysta came back to the living room, where would Krysta think Melania would look for the vest?","Complete the following paragraph:
+Melania and Krysta were hanging out in the living room. They saw a safe and a crate. They found a vest in the safe. Krysta left the living room. Melania moved the vest to the crate. After Krysta came back to the living room, Krysta would think Melania would look for the vest in"
+Hillary and Kathryne were hanging out in the basement. They saw a case and a suitcase. They found a mask in the case. Kathryne left the basement. Hillary moved the mask to the suitcase.,"After Kathryne came back to the basement, where would Kathryne look for the mask?",case,1stB,6,"Answer the question based on context:
+
+Context:Hillary and Kathryne were hanging out in the basement. They saw a case and a suitcase. They found a mask in the case. Kathryne left the basement. Hillary moved the mask to the suitcase.
+Question:
+After Kathryne came back to the basement, where would Kathryne look for the mask?","Complete the following paragraph:
+Hillary and Kathryne were hanging out in the basement. They saw a case and a suitcase. They found a mask in the case. Kathryne left the basement. Hillary moved the mask to the suitcase. After Kathryne came back to the basement, Kathryne would look for the mask in"
+Hillary and Kathryne were hanging out in the basement. They saw a case and a suitcase. They found a mask in the case. Kathryne left the basement. Hillary moved the mask to the suitcase.,"After Kathryne came back to the basement, where would Hillary think Kathryne would look for the mask?",case,2ndA,6,"Answer the question based on context:
+
+Context:Hillary and Kathryne were hanging out in the basement. They saw a case and a suitcase. They found a mask in the case. Kathryne left the basement. Hillary moved the mask to the suitcase.
+Question:
+After Kathryne came back to the basement, where would Hillary think Kathryne would look for the mask?","Complete the following paragraph:
+Hillary and Kathryne were hanging out in the basement. They saw a case and a suitcase. They found a mask in the case. Kathryne left the basement. Hillary moved the mask to the suitcase. After Kathryne came back to the basement, Hillary would think Kathryne would look for the mask in"
+Hillary and Kathryne were hanging out in the basement. They saw a case and a suitcase. They found a mask in the case. Kathryne left the basement. Hillary moved the mask to the suitcase.,"After Kathryne came back to the basement, where would Kathryne think Hillary would look for the mask?",case,2ndB,6,"Answer the question based on context:
+
+Context:Hillary and Kathryne were hanging out in the basement. They saw a case and a suitcase. They found a mask in the case. Kathryne left the basement. Hillary moved the mask to the suitcase.
+Question:
+After Kathryne came back to the basement, where would Kathryne think Hillary would look for the mask?","Complete the following paragraph:
+Hillary and Kathryne were hanging out in the basement. They saw a case and a suitcase. They found a mask in the case. Kathryne left the basement. Hillary moved the mask to the suitcase. After Kathryne came back to the basement, Kathryne would think Hillary would look for the mask in"
+Norina and Jobina were hanging out in the loft. They saw a box and a locker. They found a ruler in the box. Jobina left the loft. Norina moved the ruler to the locker.,"After Jobina came back to the loft, where would Jobina look for the ruler?",box,1stB,7,"Answer the question based on context:
+
+Context:Norina and Jobina were hanging out in the loft. They saw a box and a locker. They found a ruler in the box. Jobina left the loft. Norina moved the ruler to the locker.
+Question:
+After Jobina came back to the loft, where would Jobina look for the ruler?","Complete the following paragraph:
+Norina and Jobina were hanging out in the loft. They saw a box and a locker. They found a ruler in the box. Jobina left the loft. Norina moved the ruler to the locker. After Jobina came back to the loft, Jobina would look for the ruler in"
+Norina and Jobina were hanging out in the loft. They saw a box and a locker. They found a ruler in the box. Jobina left the loft. Norina moved the ruler to the locker.,"After Jobina came back to the loft, where would Norina think Jobina would look for the ruler?",box,2ndA,7,"Answer the question based on context:
+
+Context:Norina and Jobina were hanging out in the loft. They saw a box and a locker. They found a ruler in the box. Jobina left the loft. Norina moved the ruler to the locker.
+Question:
+After Jobina came back to the loft, where would Norina think Jobina would look for the ruler?","Complete the following paragraph:
+Norina and Jobina were hanging out in the loft. They saw a box and a locker. They found a ruler in the box. Jobina left the loft. Norina moved the ruler to the locker. After Jobina came back to the loft, Norina would think Jobina would look for the ruler in"
+Norina and Jobina were hanging out in the loft. They saw a box and a locker. They found a ruler in the box. Jobina left the loft. Norina moved the ruler to the locker.,"After Jobina came back to the loft, where would Jobina think Norina would look for the ruler?",box,2ndB,7,"Answer the question based on context:
+
+Context:Norina and Jobina were hanging out in the loft. They saw a box and a locker. They found a ruler in the box. Jobina left the loft. Norina moved the ruler to the locker.
+Question:
+After Jobina came back to the loft, where would Jobina think Norina would look for the ruler?","Complete the following paragraph:
+Norina and Jobina were hanging out in the loft. They saw a box and a locker. They found a ruler in the box. Jobina left the loft. Norina moved the ruler to the locker. After Jobina came back to the loft, Jobina would think Norina would look for the ruler in"
+Karalynn and Clio were hanging out in the kitchen. They saw a bin and a box. They found a calculator in the bin. Clio left the kitchen. Karalynn moved the calculator to the box.,"After Clio came back to the kitchen, where would Clio look for the calculator?",bin,1stB,8,"Answer the question based on context:
+
+Context:Karalynn and Clio were hanging out in the kitchen. They saw a bin and a box. They found a calculator in the bin. Clio left the kitchen. Karalynn moved the calculator to the box.
+Question:
+After Clio came back to the kitchen, where would Clio look for the calculator?","Complete the following paragraph:
+Karalynn and Clio were hanging out in the kitchen. They saw a bin and a box. They found a calculator in the bin. Clio left the kitchen. Karalynn moved the calculator to the box. After Clio came back to the kitchen, Clio would look for the calculator in"
+Karalynn and Clio were hanging out in the kitchen. They saw a bin and a box. They found a calculator in the bin. Clio left the kitchen. Karalynn moved the calculator to the box.,"After Clio came back to the kitchen, where would Karalynn think Clio would look for the calculator?",bin,2ndA,8,"Answer the question based on context:
+
+Context:Karalynn and Clio were hanging out in the kitchen. They saw a bin and a box. They found a calculator in the bin. Clio left the kitchen. Karalynn moved the calculator to the box.
+Question:
+After Clio came back to the kitchen, where would Karalynn think Clio would look for the calculator?","Complete the following paragraph:
+Karalynn and Clio were hanging out in the kitchen. They saw a bin and a box. They found a calculator in the bin. Clio left the kitchen. Karalynn moved the calculator to the box. After Clio came back to the kitchen, Karalynn would think Clio would look for the calculator in"
+Karalynn and Clio were hanging out in the kitchen. They saw a bin and a box. They found a calculator in the bin. Clio left the kitchen. Karalynn moved the calculator to the box.,"After Clio came back to the kitchen, where would Clio think Karalynn would look for the calculator?",bin,2ndB,8,"Answer the question based on context:
+
+Context:Karalynn and Clio were hanging out in the kitchen. They saw a bin and a box. They found a calculator in the bin. Clio left the kitchen. Karalynn moved the calculator to the box.
+Question:
+After Clio came back to the kitchen, where would Clio think Karalynn would look for the calculator?","Complete the following paragraph:
+Karalynn and Clio were hanging out in the kitchen. They saw a bin and a box. They found a calculator in the bin. Clio left the kitchen. Karalynn moved the calculator to the box. After Clio came back to the kitchen, Clio would think Karalynn would look for the calculator in"
+Vera and Daphene were hanging out in the terrace. They saw a coffer and a bin. They found a cable in the coffer. Daphene left the terrace. Vera moved the cable to the bin.,"After Daphene came back to the terrace, where would Daphene look for the cable?",coffer,1stB,9,"Answer the question based on context:
+
+Context:Vera and Daphene were hanging out in the terrace. They saw a coffer and a bin. They found a cable in the coffer. Daphene left the terrace. Vera moved the cable to the bin.
+Question:
+After Daphene came back to the terrace, where would Daphene look for the cable?","Complete the following paragraph:
+Vera and Daphene were hanging out in the terrace. They saw a coffer and a bin. They found a cable in the coffer. Daphene left the terrace. Vera moved the cable to the bin. After Daphene came back to the terrace, Daphene would look for the cable in"
+Vera and Daphene were hanging out in the terrace. They saw a coffer and a bin. They found a cable in the coffer. Daphene left the terrace. Vera moved the cable to the bin.,"After Daphene came back to the terrace, where would Vera think Daphene would look for the cable?",coffer,2ndA,9,"Answer the question based on context:
+
+Context:Vera and Daphene were hanging out in the terrace. They saw a coffer and a bin. They found a cable in the coffer. Daphene left the terrace. Vera moved the cable to the bin.
+Question:
+After Daphene came back to the terrace, where would Vera think Daphene would look for the cable?","Complete the following paragraph:
+Vera and Daphene were hanging out in the terrace. They saw a coffer and a bin. They found a cable in the coffer. Daphene left the terrace. Vera moved the cable to the bin. After Daphene came back to the terrace, Vera would think Daphene would look for the cable in"
+Vera and Daphene were hanging out in the terrace. They saw a coffer and a bin. They found a cable in the coffer. Daphene left the terrace. Vera moved the cable to the bin.,"After Daphene came back to the terrace, where would Daphene think Vera would look for the cable?",coffer,2ndB,9,"Answer the question based on context:
+
+Context:Vera and Daphene were hanging out in the terrace. They saw a coffer and a bin. They found a cable in the coffer. Daphene left the terrace. Vera moved the cable to the bin.
+Question:
+After Daphene came back to the terrace, where would Daphene think Vera would look for the cable?","Complete the following paragraph:
+Vera and Daphene were hanging out in the terrace. They saw a coffer and a bin. They found a cable in the coffer. Daphene left the terrace. Vera moved the cable to the bin. After Daphene came back to the terrace, Daphene would think Vera would look for the cable in"
+Sabra and Melania were hanging out in the balcony. They saw a safe and a chamber. They found a binder in the safe. Melania left the balcony. Sabra moved the binder to the chamber.,"After Melania came back to the balcony, where would Melania look for the binder?",safe,1stB,10,"Answer the question based on context:
+
+Context:Sabra and Melania were hanging out in the balcony. They saw a safe and a chamber. They found a binder in the safe. Melania left the balcony. Sabra moved the binder to the chamber.
+Question:
+After Melania came back to the balcony, where would Melania look for the binder?","Complete the following paragraph:
+Sabra and Melania were hanging out in the balcony. They saw a safe and a chamber. They found a binder in the safe. Melania left the balcony. Sabra moved the binder to the chamber. After Melania came back to the balcony, Melania would look for the binder in"
+Sabra and Melania were hanging out in the balcony. They saw a safe and a chamber. They found a binder in the safe. Melania left the balcony. Sabra moved the binder to the chamber.,"After Melania came back to the balcony, where would Sabra think Melania would look for the binder?",safe,2ndA,10,"Answer the question based on context:
+
+Context:Sabra and Melania were hanging out in the balcony. They saw a safe and a chamber. They found a binder in the safe. Melania left the balcony. Sabra moved the binder to the chamber.
+Question:
+After Melania came back to the balcony, where would Sabra think Melania would look for the binder?","Complete the following paragraph:
+Sabra and Melania were hanging out in the balcony. They saw a safe and a chamber. They found a binder in the safe. Melania left the balcony. Sabra moved the binder to the chamber. After Melania came back to the balcony, Sabra would think Melania would look for the binder in"
+Sabra and Melania were hanging out in the balcony. They saw a safe and a chamber. They found a binder in the safe. Melania left the balcony. Sabra moved the binder to the chamber.,"After Melania came back to the balcony, where would Melania think Sabra would look for the binder?",safe,2ndB,10,"Answer the question based on context:
+
+Context:Sabra and Melania were hanging out in the balcony. They saw a safe and a chamber. They found a binder in the safe. Melania left the balcony. Sabra moved the binder to the chamber.
+Question:
+After Melania came back to the balcony, where would Melania think Sabra would look for the binder?","Complete the following paragraph:
+Sabra and Melania were hanging out in the balcony. They saw a safe and a chamber. They found a binder in the safe. Melania left the balcony. Sabra moved the binder to the chamber. After Melania came back to the balcony, Melania would think Sabra would look for the binder in"
+Clio and Felicity were hanging out in the nursery. They saw a tote and a bag. They found a cup in the tote. Felicity left the nursery. Clio moved the cup to the bag.,"After Felicity came back to the nursery, where would Felicity look for the cup?",tote,1stB,11,"Answer the question based on context:
+
+Context:Clio and Felicity were hanging out in the nursery. They saw a tote and a bag. They found a cup in the tote. Felicity left the nursery. Clio moved the cup to the bag.
+Question:
+After Felicity came back to the nursery, where would Felicity look for the cup?","Complete the following paragraph:
+Clio and Felicity were hanging out in the nursery. They saw a tote and a bag. They found a cup in the tote. Felicity left the nursery. Clio moved the cup to the bag. After Felicity came back to the nursery, Felicity would look for the cup in"
+Clio and Felicity were hanging out in the nursery. They saw a tote and a bag. They found a cup in the tote. Felicity left the nursery. Clio moved the cup to the bag.,"After Felicity came back to the nursery, where would Clio think Felicity would look for the cup?",tote,2ndA,11,"Answer the question based on context:
+
+Context:Clio and Felicity were hanging out in the nursery. They saw a tote and a bag. They found a cup in the tote. Felicity left the nursery. Clio moved the cup to the bag.
+Question:
+After Felicity came back to the nursery, where would Clio think Felicity would look for the cup?","Complete the following paragraph:
+Clio and Felicity were hanging out in the nursery. They saw a tote and a bag. They found a cup in the tote. Felicity left the nursery. Clio moved the cup to the bag. After Felicity came back to the nursery, Clio would think Felicity would look for the cup in"
+Clio and Felicity were hanging out in the nursery. They saw a tote and a bag. They found a cup in the tote. Felicity left the nursery. Clio moved the cup to the bag.,"After Felicity came back to the nursery, where would Felicity think Clio would look for the cup?",tote,2ndB,11,"Answer the question based on context:
+
+Context:Clio and Felicity were hanging out in the nursery. They saw a tote and a bag. They found a cup in the tote. Felicity left the nursery. Clio moved the cup to the bag.
+Question:
+After Felicity came back to the nursery, where would Felicity think Clio would look for the cup?","Complete the following paragraph:
+Clio and Felicity were hanging out in the nursery. They saw a tote and a bag. They found a cup in the tote. Felicity left the nursery. Clio moved the cup to the bag. After Felicity came back to the nursery, Felicity would think Clio would look for the cup in"
+Felicity and Hillary were hanging out in the conservatory. They saw a cabinet and a chest. They found a carrot in the cabinet. Hillary left the conservatory. Felicity moved the carrot to the chest.,"After Hillary came back to the conservatory, where would Hillary look for the carrot?",cabinet,1stB,12,"Answer the question based on context:
+
+Context:Felicity and Hillary were hanging out in the conservatory. They saw a cabinet and a chest. They found a carrot in the cabinet. Hillary left the conservatory. Felicity moved the carrot to the chest.
+Question:
+After Hillary came back to the conservatory, where would Hillary look for the carrot?","Complete the following paragraph:
+Felicity and Hillary were hanging out in the conservatory. They saw a cabinet and a chest. They found a carrot in the cabinet. Hillary left the conservatory. Felicity moved the carrot to the chest. After Hillary came back to the conservatory, Hillary would look for the carrot in"
+Felicity and Hillary were hanging out in the conservatory. They saw a cabinet and a chest. They found a carrot in the cabinet. Hillary left the conservatory. Felicity moved the carrot to the chest.,"After Hillary came back to the conservatory, where would Felicity think Hillary would look for the carrot?",cabinet,2ndA,12,"Answer the question based on context:
+
+Context:Felicity and Hillary were hanging out in the conservatory. They saw a cabinet and a chest. They found a carrot in the cabinet. Hillary left the conservatory. Felicity moved the carrot to the chest.
+Question:
+After Hillary came back to the conservatory, where would Felicity think Hillary would look for the carrot?","Complete the following paragraph:
+Felicity and Hillary were hanging out in the conservatory. They saw a cabinet and a chest. They found a carrot in the cabinet. Hillary left the conservatory. Felicity moved the carrot to the chest. After Hillary came back to the conservatory, Felicity would think Hillary would look for the carrot in"
+Felicity and Hillary were hanging out in the conservatory. They saw a cabinet and a chest. They found a carrot in the cabinet. Hillary left the conservatory. Felicity moved the carrot to the chest.,"After Hillary came back to the conservatory, where would Hillary think Felicity would look for the carrot?",cabinet,2ndB,12,"Answer the question based on context:
+
+Context:Felicity and Hillary were hanging out in the conservatory. They saw a cabinet and a chest. They found a carrot in the cabinet. Hillary left the conservatory. Felicity moved the carrot to the chest.
+Question:
+After Hillary came back to the conservatory, where would Hillary think Felicity would look for the carrot?","Complete the following paragraph:
+Felicity and Hillary were hanging out in the conservatory. They saw a cabinet and a chest. They found a carrot in the cabinet. Hillary left the conservatory. Felicity moved the carrot to the chest. After Hillary came back to the conservatory, Hillary would think Felicity would look for the carrot in"
+Sabra and Hillary were hanging out in the lounge. They saw a box and a cabinet. They found a lemon in the box. Hillary left the lounge. Sabra moved the lemon to the cabinet.,"After Hillary came back to the lounge, where would Hillary look for the lemon?",box,1stB,13,"Answer the question based on context:
+
+Context:Sabra and Hillary were hanging out in the lounge. They saw a box and a cabinet. They found a lemon in the box. Hillary left the lounge. Sabra moved the lemon to the cabinet.
+Question:
+After Hillary came back to the lounge, where would Hillary look for the lemon?","Complete the following paragraph:
+Sabra and Hillary were hanging out in the lounge. They saw a box and a cabinet. They found a lemon in the box. Hillary left the lounge. Sabra moved the lemon to the cabinet. After Hillary came back to the lounge, Hillary would look for the lemon in"
+Sabra and Hillary were hanging out in the lounge. They saw a box and a cabinet. They found a lemon in the box. Hillary left the lounge. Sabra moved the lemon to the cabinet.,"After Hillary came back to the lounge, where would Sabra think Hillary would look for the lemon?",box,2ndA,13,"Answer the question based on context:
+
+Context:Sabra and Hillary were hanging out in the lounge. They saw a box and a cabinet. They found a lemon in the box. Hillary left the lounge. Sabra moved the lemon to the cabinet.
+Question:
+After Hillary came back to the lounge, where would Sabra think Hillary would look for the lemon?","Complete the following paragraph:
+Sabra and Hillary were hanging out in the lounge. They saw a box and a cabinet. They found a lemon in the box. Hillary left the lounge. Sabra moved the lemon to the cabinet. After Hillary came back to the lounge, Sabra would think Hillary would look for the lemon in"
+Sabra and Hillary were hanging out in the lounge. They saw a box and a cabinet. They found a lemon in the box. Hillary left the lounge. Sabra moved the lemon to the cabinet.,"After Hillary came back to the lounge, where would Hillary think Sabra would look for the lemon?",box,2ndB,13,"Answer the question based on context:
+
+Context:Sabra and Hillary were hanging out in the lounge. They saw a box and a cabinet. They found a lemon in the box. Hillary left the lounge. Sabra moved the lemon to the cabinet.
+Question:
+After Hillary came back to the lounge, where would Hillary think Sabra would look for the lemon?","Complete the following paragraph:
+Sabra and Hillary were hanging out in the lounge. They saw a box and a cabinet. They found a lemon in the box. Hillary left the lounge. Sabra moved the lemon to the cabinet. After Hillary came back to the lounge, Hillary would think Sabra would look for the lemon in"
+Meira and Juanita were hanging out in the dining room. They saw a suitcase and a chest. They found a pear in the suitcase. Juanita left the dining room. Meira moved the pear to the chest.,"After Juanita came back to the dining room, where would Juanita look for the pear?",suitcase,1stB,14,"Answer the question based on context:
+
+Context:Meira and Juanita were hanging out in the dining room. They saw a suitcase and a chest. They found a pear in the suitcase. Juanita left the dining room. Meira moved the pear to the chest.
+Question:
+After Juanita came back to the dining room, where would Juanita look for the pear?","Complete the following paragraph:
+Meira and Juanita were hanging out in the dining room. They saw a suitcase and a chest. They found a pear in the suitcase. Juanita left the dining room. Meira moved the pear to the chest. After Juanita came back to the dining room, Juanita would look for the pear in"
+Meira and Juanita were hanging out in the dining room. They saw a suitcase and a chest. They found a pear in the suitcase. Juanita left the dining room. Meira moved the pear to the chest.,"After Juanita came back to the dining room, where would Meira think Juanita would look for the pear?",suitcase,2ndA,14,"Answer the question based on context:
+
+Context:Meira and Juanita were hanging out in the dining room. They saw a suitcase and a chest. They found a pear in the suitcase. Juanita left the dining room. Meira moved the pear to the chest.
+Question:
+After Juanita came back to the dining room, where would Meira think Juanita would look for the pear?","Complete the following paragraph:
+Meira and Juanita were hanging out in the dining room. They saw a suitcase and a chest. They found a pear in the suitcase. Juanita left the dining room. Meira moved the pear to the chest. After Juanita came back to the dining room, Meira would think Juanita would look for the pear in"
+Meira and Juanita were hanging out in the dining room. They saw a suitcase and a chest. They found a pear in the suitcase. Juanita left the dining room. Meira moved the pear to the chest.,"After Juanita came back to the dining room, where would Juanita think Meira would look for the pear?",suitcase,2ndB,14,"Answer the question based on context:
+
+Context:Meira and Juanita were hanging out in the dining room. They saw a suitcase and a chest. They found a pear in the suitcase. Juanita left the dining room. Meira moved the pear to the chest.
+Question:
+After Juanita came back to the dining room, where would Juanita think Meira would look for the pear?","Complete the following paragraph:
+Meira and Juanita were hanging out in the dining room. They saw a suitcase and a chest. They found a pear in the suitcase. Juanita left the dining room. Meira moved the pear to the chest. After Juanita came back to the dining room, Juanita would think Meira would look for the pear in"
+Hillary and Clio were hanging out in the library. They saw a locker and a box. They found a cauliflower in the locker. Clio left the library. Hillary moved the cauliflower to the box.,"After Clio came back to the library, where would Clio look for the cauliflower?",locker,1stB,15,"Answer the question based on context:
+
+Context:Hillary and Clio were hanging out in the library. They saw a locker and a box. They found a cauliflower in the locker. Clio left the library. Hillary moved the cauliflower to the box.
+Question:
+After Clio came back to the library, where would Clio look for the cauliflower?","Complete the following paragraph:
+Hillary and Clio were hanging out in the library. They saw a locker and a box. They found a cauliflower in the locker. Clio left the library. Hillary moved the cauliflower to the box. After Clio came back to the library, Clio would look for the cauliflower in"
+Hillary and Clio were hanging out in the library. They saw a locker and a box. They found a cauliflower in the locker. Clio left the library. Hillary moved the cauliflower to the box.,"After Clio came back to the library, where would Hillary think Clio would look for the cauliflower?",locker,2ndA,15,"Answer the question based on context:
+
+Context:Hillary and Clio were hanging out in the library. They saw a locker and a box. They found a cauliflower in the locker. Clio left the library. Hillary moved the cauliflower to the box.
+Question:
+After Clio came back to the library, where would Hillary think Clio would look for the cauliflower?","Complete the following paragraph:
+Hillary and Clio were hanging out in the library. They saw a locker and a box. They found a cauliflower in the locker. Clio left the library. Hillary moved the cauliflower to the box. After Clio came back to the library, Hillary would think Clio would look for the cauliflower in"
+Hillary and Clio were hanging out in the library. They saw a locker and a box. They found a cauliflower in the locker. Clio left the library. Hillary moved the cauliflower to the box.,"After Clio came back to the library, where would Clio think Hillary would look for the cauliflower?",locker,2ndB,15,"Answer the question based on context:
+
+Context:Hillary and Clio were hanging out in the library. They saw a locker and a box. They found a cauliflower in the locker. Clio left the library. Hillary moved the cauliflower to the box.
+Question:
+After Clio came back to the library, where would Clio think Hillary would look for the cauliflower?","Complete the following paragraph:
+Hillary and Clio were hanging out in the library. They saw a locker and a box. They found a cauliflower in the locker. Clio left the library. Hillary moved the cauliflower to the box. After Clio came back to the library, Clio would think Hillary would look for the cauliflower in"
+Amata and Neila were hanging out in the farm. They saw a box and a case. They found a lemon in the box. Neila left the farm. Amata moved the lemon to the case.,"After Neila came back to the farm, where would Neila look for the lemon?",box,1stB,16,"Answer the question based on context:
+
+Context:Amata and Neila were hanging out in the farm. They saw a box and a case. They found a lemon in the box. Neila left the farm. Amata moved the lemon to the case.
+Question:
+After Neila came back to the farm, where would Neila look for the lemon?","Complete the following paragraph:
+Amata and Neila were hanging out in the farm. They saw a box and a case. They found a lemon in the box. Neila left the farm. Amata moved the lemon to the case. After Neila came back to the farm, Neila would look for the lemon in"
+Amata and Neila were hanging out in the farm. They saw a box and a case. They found a lemon in the box. Neila left the farm. Amata moved the lemon to the case.,"After Neila came back to the farm, where would Amata think Neila would look for the lemon?",box,2ndA,16,"Answer the question based on context:
+
+Context:Amata and Neila were hanging out in the farm. They saw a box and a case. They found a lemon in the box. Neila left the farm. Amata moved the lemon to the case.
+Question:
+After Neila came back to the farm, where would Amata think Neila would look for the lemon?","Complete the following paragraph:
+Amata and Neila were hanging out in the farm. They saw a box and a case. They found a lemon in the box. Neila left the farm. Amata moved the lemon to the case. After Neila came back to the farm, Amata would think Neila would look for the lemon in"
+Amata and Neila were hanging out in the farm. They saw a box and a case. They found a lemon in the box. Neila left the farm. Amata moved the lemon to the case.,"After Neila came back to the farm, where would Neila think Amata would look for the lemon?",box,2ndB,16,"Answer the question based on context:
+
+Context:Amata and Neila were hanging out in the farm. They saw a box and a case. They found a lemon in the box. Neila left the farm. Amata moved the lemon to the case.
+Question:
+After Neila came back to the farm, where would Neila think Amata would look for the lemon?","Complete the following paragraph:
+Amata and Neila were hanging out in the farm. They saw a box and a case. They found a lemon in the box. Neila left the farm. Amata moved the lemon to the case. After Neila came back to the farm, Neila would think Amata would look for the lemon in"
+Clio and Amata were hanging out in the bar. They saw a crate and a hamper. They found a pepper in the crate. Amata left the bar. Clio moved the pepper to the hamper.,"After Amata came back to the bar, where would Amata look for the pepper?",crate,1stB,17,"Answer the question based on context:
+
+Context:Clio and Amata were hanging out in the bar. They saw a crate and a hamper. They found a pepper in the crate. Amata left the bar. Clio moved the pepper to the hamper.
+Question:
+After Amata came back to the bar, where would Amata look for the pepper?","Complete the following paragraph:
+Clio and Amata were hanging out in the bar. They saw a crate and a hamper. They found a pepper in the crate. Amata left the bar. Clio moved the pepper to the hamper. After Amata came back to the bar, Amata would look for the pepper in"
+Clio and Amata were hanging out in the bar. They saw a crate and a hamper. They found a pepper in the crate. Amata left the bar. Clio moved the pepper to the hamper.,"After Amata came back to the bar, where would Clio think Amata would look for the pepper?",crate,2ndA,17,"Answer the question based on context:
+
+Context:Clio and Amata were hanging out in the bar. They saw a crate and a hamper. They found a pepper in the crate. Amata left the bar. Clio moved the pepper to the hamper.
+Question:
+After Amata came back to the bar, where would Clio think Amata would look for the pepper?","Complete the following paragraph:
+Clio and Amata were hanging out in the bar. They saw a crate and a hamper. They found a pepper in the crate. Amata left the bar. Clio moved the pepper to the hamper. After Amata came back to the bar, Clio would think Amata would look for the pepper in"
+Clio and Amata were hanging out in the bar. They saw a crate and a hamper. They found a pepper in the crate. Amata left the bar. Clio moved the pepper to the hamper.,"After Amata came back to the bar, where would Amata think Clio would look for the pepper?",crate,2ndB,17,"Answer the question based on context:
+
+Context:Clio and Amata were hanging out in the bar. They saw a crate and a hamper. They found a pepper in the crate. Amata left the bar. Clio moved the pepper to the hamper.
+Question:
+After Amata came back to the bar, where would Amata think Clio would look for the pepper?","Complete the following paragraph:
+Clio and Amata were hanging out in the bar. They saw a crate and a hamper. They found a pepper in the crate. Amata left the bar. Clio moved the pepper to the hamper. After Amata came back to the bar, Amata would think Clio would look for the pepper in"
+Daphene and Melania were hanging out in the market. They saw a chamber and a closet. They found a peach in the chamber. Melania left the market. Daphene moved the peach to the closet.,"After Melania came back to the market, where would Melania look for the peach?",chamber,1stB,18,"Answer the question based on context:
+
+Context:Daphene and Melania were hanging out in the market. They saw a chamber and a closet. They found a peach in the chamber. Melania left the market. Daphene moved the peach to the closet.
+Question:
+After Melania came back to the market, where would Melania look for the peach?","Complete the following paragraph:
+Daphene and Melania were hanging out in the market. They saw a chamber and a closet. They found a peach in the chamber. Melania left the market. Daphene moved the peach to the closet. After Melania came back to the market, Melania would look for the peach in"
+Daphene and Melania were hanging out in the market. They saw a chamber and a closet. They found a peach in the chamber. Melania left the market. Daphene moved the peach to the closet.,"After Melania came back to the market, where would Daphene think Melania would look for the peach?",chamber,2ndA,18,"Answer the question based on context:
+
+Context:Daphene and Melania were hanging out in the market. They saw a chamber and a closet. They found a peach in the chamber. Melania left the market. Daphene moved the peach to the closet.
+Question:
+After Melania came back to the market, where would Daphene think Melania would look for the peach?","Complete the following paragraph:
+Daphene and Melania were hanging out in the market. They saw a chamber and a closet. They found a peach in the chamber. Melania left the market. Daphene moved the peach to the closet. After Melania came back to the market, Daphene would think Melania would look for the peach in"
+Daphene and Melania were hanging out in the market. They saw a chamber and a closet. They found a peach in the chamber. Melania left the market. Daphene moved the peach to the closet.,"After Melania came back to the market, where would Melania think Daphene would look for the peach?",chamber,2ndB,18,"Answer the question based on context:
+
+Context:Daphene and Melania were hanging out in the market. They saw a chamber and a closet. They found a peach in the chamber. Melania left the market. Daphene moved the peach to the closet.
+Question:
+After Melania came back to the market, where would Melania think Daphene would look for the peach?","Complete the following paragraph:
+Daphene and Melania were hanging out in the market. They saw a chamber and a closet. They found a peach in the chamber. Melania left the market. Daphene moved the peach to the closet. After Melania came back to the market, Melania would think Daphene would look for the peach in"
+Keri and Clio were hanging out in the garden. They saw a briefcase and a bin. They found a casette in the briefcase. Clio left the garden. Keri moved the casette to the bin.,"After Clio came back to the garden, where would Clio look for the casette?",briefcase,1stB,19,"Answer the question based on context:
+
+Context:Keri and Clio were hanging out in the garden. They saw a briefcase and a bin. They found a casette in the briefcase. Clio left the garden. Keri moved the casette to the bin.
+Question:
+After Clio came back to the garden, where would Clio look for the casette?","Complete the following paragraph:
+Keri and Clio were hanging out in the garden. They saw a briefcase and a bin. They found a casette in the briefcase. Clio left the garden. Keri moved the casette to the bin. After Clio came back to the garden, Clio would look for the casette in"
+Keri and Clio were hanging out in the garden. They saw a briefcase and a bin. They found a casette in the briefcase. Clio left the garden. Keri moved the casette to the bin.,"After Clio came back to the garden, where would Keri think Clio would look for the casette?",briefcase,2ndA,19,"Answer the question based on context:
+
+Context:Keri and Clio were hanging out in the garden. They saw a briefcase and a bin. They found a casette in the briefcase. Clio left the garden. Keri moved the casette to the bin.
+Question:
+After Clio came back to the garden, where would Keri think Clio would look for the casette?","Complete the following paragraph:
+Keri and Clio were hanging out in the garden. They saw a briefcase and a bin. They found a casette in the briefcase. Clio left the garden. Keri moved the casette to the bin. After Clio came back to the garden, Keri would think Clio would look for the casette in"
+Keri and Clio were hanging out in the garden. They saw a briefcase and a bin. They found a casette in the briefcase. Clio left the garden. Keri moved the casette to the bin.,"After Clio came back to the garden, where would Clio think Keri would look for the casette?",briefcase,2ndB,19,"Answer the question based on context:
+
+Context:Keri and Clio were hanging out in the garden. They saw a briefcase and a bin. They found a casette in the briefcase. Clio left the garden. Keri moved the casette to the bin.
+Question:
+After Clio came back to the garden, where would Clio think Keri would look for the casette?","Complete the following paragraph:
+Keri and Clio were hanging out in the garden. They saw a briefcase and a bin. They found a casette in the briefcase. Clio left the garden. Keri moved the casette to the bin. After Clio came back to the garden, Clio would think Keri would look for the casette in"
+Sabra and Meira were hanging out in the bank. They saw a cupboard and a closet. They found a coat in the cupboard. Meira left the bank. Sabra moved the coat to the closet.,"After Meira came back to the bank, where would Meira look for the coat?",cupboard,1stB,20,"Answer the question based on context:
+
+Context:Sabra and Meira were hanging out in the bank. They saw a cupboard and a closet. They found a coat in the cupboard. Meira left the bank. Sabra moved the coat to the closet.
+Question:
+After Meira came back to the bank, where would Meira look for the coat?","Complete the following paragraph:
+Sabra and Meira were hanging out in the bank. They saw a cupboard and a closet. They found a coat in the cupboard. Meira left the bank. Sabra moved the coat to the closet. After Meira came back to the bank, Meira would look for the coat in"
+Sabra and Meira were hanging out in the bank. They saw a cupboard and a closet. They found a coat in the cupboard. Meira left the bank. Sabra moved the coat to the closet.,"After Meira came back to the bank, where would Sabra think Meira would look for the coat?",cupboard,2ndA,20,"Answer the question based on context:
+
+Context:Sabra and Meira were hanging out in the bank. They saw a cupboard and a closet. They found a coat in the cupboard. Meira left the bank. Sabra moved the coat to the closet.
+Question:
+After Meira came back to the bank, where would Sabra think Meira would look for the coat?","Complete the following paragraph:
+Sabra and Meira were hanging out in the bank. They saw a cupboard and a closet. They found a coat in the cupboard. Meira left the bank. Sabra moved the coat to the closet. After Meira came back to the bank, Sabra would think Meira would look for the coat in"
+Sabra and Meira were hanging out in the bank. They saw a cupboard and a closet. They found a coat in the cupboard. Meira left the bank. Sabra moved the coat to the closet.,"After Meira came back to the bank, where would Meira think Sabra would look for the coat?",cupboard,2ndB,20,"Answer the question based on context:
+
+Context:Sabra and Meira were hanging out in the bank. They saw a cupboard and a closet. They found a coat in the cupboard. Meira left the bank. Sabra moved the coat to the closet.
+Question:
+After Meira came back to the bank, where would Meira think Sabra would look for the coat?","Complete the following paragraph:
+Sabra and Meira were hanging out in the bank. They saw a cupboard and a closet. They found a coat in the cupboard. Meira left the bank. Sabra moved the coat to the closet. After Meira came back to the bank, Meira would think Sabra would look for the coat in"
+Keri and Lian were hanging out in the office. They saw a pantry and a tote. They found a coat in the pantry. Lian left the office. Keri moved the coat to the tote.,"After Lian came back to the office, where would Lian look for the coat?",pantry,1stB,21,"Answer the question based on context:
+
+Context:Keri and Lian were hanging out in the office. They saw a pantry and a tote. They found a coat in the pantry. Lian left the office. Keri moved the coat to the tote.
+Question:
+After Lian came back to the office, where would Lian look for the coat?","Complete the following paragraph:
+Keri and Lian were hanging out in the office. They saw a pantry and a tote. They found a coat in the pantry. Lian left the office. Keri moved the coat to the tote. After Lian came back to the office, Lian would look for the coat in"
+Keri and Lian were hanging out in the office. They saw a pantry and a tote. They found a coat in the pantry. Lian left the office. Keri moved the coat to the tote.,"After Lian came back to the office, where would Keri think Lian would look for the coat?",pantry,2ndA,21,"Answer the question based on context:
+
+Context:Keri and Lian were hanging out in the office. They saw a pantry and a tote. They found a coat in the pantry. Lian left the office. Keri moved the coat to the tote.
+Question:
+After Lian came back to the office, where would Keri think Lian would look for the coat?","Complete the following paragraph:
+Keri and Lian were hanging out in the office. They saw a pantry and a tote. They found a coat in the pantry. Lian left the office. Keri moved the coat to the tote. After Lian came back to the office, Keri would think Lian would look for the coat in"
+Keri and Lian were hanging out in the office. They saw a pantry and a tote. They found a coat in the pantry. Lian left the office. Keri moved the coat to the tote.,"After Lian came back to the office, where would Lian think Keri would look for the coat?",pantry,2ndB,21,"Answer the question based on context:
+
+Context:Keri and Lian were hanging out in the office. They saw a pantry and a tote. They found a coat in the pantry. Lian left the office. Keri moved the coat to the tote.
+Question:
+After Lian came back to the office, where would Lian think Keri would look for the coat?","Complete the following paragraph:
+Keri and Lian were hanging out in the office. They saw a pantry and a tote. They found a coat in the pantry. Lian left the office. Keri moved the coat to the tote. After Lian came back to the office, Lian would think Keri would look for the coat in"
+Evaleen and Vera were hanging out in the factory. They saw a backpack and a box. They found a grapefruit in the backpack. Vera left the factory. Evaleen moved the grapefruit to the box.,"After Vera came back to the factory, where would Vera look for the grapefruit?",backpack,1stB,22,"Answer the question based on context:
+
+Context:Evaleen and Vera were hanging out in the factory. They saw a backpack and a box. They found a grapefruit in the backpack. Vera left the factory. Evaleen moved the grapefruit to the box.
+Question:
+After Vera came back to the factory, where would Vera look for the grapefruit?","Complete the following paragraph:
+Evaleen and Vera were hanging out in the factory. They saw a backpack and a box. They found a grapefruit in the backpack. Vera left the factory. Evaleen moved the grapefruit to the box. After Vera came back to the factory, Vera would look for the grapefruit in"
+Evaleen and Vera were hanging out in the factory. They saw a backpack and a box. They found a grapefruit in the backpack. Vera left the factory. Evaleen moved the grapefruit to the box.,"After Vera came back to the factory, where would Evaleen think Vera would look for the grapefruit?",backpack,2ndA,22,"Answer the question based on context:
+
+Context:Evaleen and Vera were hanging out in the factory. They saw a backpack and a box. They found a grapefruit in the backpack. Vera left the factory. Evaleen moved the grapefruit to the box.
+Question:
+After Vera came back to the factory, where would Evaleen think Vera would look for the grapefruit?","Complete the following paragraph:
+Evaleen and Vera were hanging out in the factory. They saw a backpack and a box. They found a grapefruit in the backpack. Vera left the factory. Evaleen moved the grapefruit to the box. After Vera came back to the factory, Evaleen would think Vera would look for the grapefruit in"
+Evaleen and Vera were hanging out in the factory. They saw a backpack and a box. They found a grapefruit in the backpack. Vera left the factory. Evaleen moved the grapefruit to the box.,"After Vera came back to the factory, where would Vera think Evaleen would look for the grapefruit?",backpack,2ndB,22,"Answer the question based on context:
+
+Context:Evaleen and Vera were hanging out in the factory. They saw a backpack and a box. They found a grapefruit in the backpack. Vera left the factory. Evaleen moved the grapefruit to the box.
+Question:
+After Vera came back to the factory, where would Vera think Evaleen would look for the grapefruit?","Complete the following paragraph:
+Evaleen and Vera were hanging out in the factory. They saw a backpack and a box. They found a grapefruit in the backpack. Vera left the factory. Evaleen moved the grapefruit to the box. After Vera came back to the factory, Vera would think Evaleen would look for the grapefruit in"
+Clem and Amata were hanging out in the house. They saw a coffer and a drawer. They found a papaya in the coffer. Amata left the house. Clem moved the papaya to the drawer.,"After Amata came back to the house, where would Amata look for the papaya?",coffer,1stB,23,"Answer the question based on context:
+
+Context:Clem and Amata were hanging out in the house. They saw a coffer and a drawer. They found a papaya in the coffer. Amata left the house. Clem moved the papaya to the drawer.
+Question:
+After Amata came back to the house, where would Amata look for the papaya?","Complete the following paragraph:
+Clem and Amata were hanging out in the house. They saw a coffer and a drawer. They found a papaya in the coffer. Amata left the house. Clem moved the papaya to the drawer. After Amata came back to the house, Amata would look for the papaya in"
+Clem and Amata were hanging out in the house. They saw a coffer and a drawer. They found a papaya in the coffer. Amata left the house. Clem moved the papaya to the drawer.,"After Amata came back to the house, where would Clem think Amata would look for the papaya?",coffer,2ndA,23,"Answer the question based on context:
+
+Context:Clem and Amata were hanging out in the house. They saw a coffer and a drawer. They found a papaya in the coffer. Amata left the house. Clem moved the papaya to the drawer.
+Question:
+After Amata came back to the house, where would Clem think Amata would look for the papaya?","Complete the following paragraph:
+Clem and Amata were hanging out in the house. They saw a coffer and a drawer. They found a papaya in the coffer. Amata left the house. Clem moved the papaya to the drawer. After Amata came back to the house, Clem would think Amata would look for the papaya in"
+Clem and Amata were hanging out in the house. They saw a coffer and a drawer. They found a papaya in the coffer. Amata left the house. Clem moved the papaya to the drawer.,"After Amata came back to the house, where would Amata think Clem would look for the papaya?",coffer,2ndB,23,"Answer the question based on context:
+
+Context:Clem and Amata were hanging out in the house. They saw a coffer and a drawer. They found a papaya in the coffer. Amata left the house. Clem moved the papaya to the drawer.
+Question:
+After Amata came back to the house, where would Amata think Clem would look for the papaya?","Complete the following paragraph:
+Clem and Amata were hanging out in the house. They saw a coffer and a drawer. They found a papaya in the coffer. Amata left the house. Clem moved the papaya to the drawer. After Amata came back to the house, Amata would think Clem would look for the papaya in"
+Lian and Norina were hanging out in the hall. They saw a carryall and a drawer. They found a button in the carryall. Norina left the hall. Lian moved the button to the drawer.,"After Norina came back to the hall, where would Norina look for the button?",carryall,1stB,24,"Answer the question based on context:
+
+Context:Lian and Norina were hanging out in the hall. They saw a carryall and a drawer. They found a button in the carryall. Norina left the hall. Lian moved the button to the drawer.
+Question:
+After Norina came back to the hall, where would Norina look for the button?","Complete the following paragraph:
+Lian and Norina were hanging out in the hall. They saw a carryall and a drawer. They found a button in the carryall. Norina left the hall. Lian moved the button to the drawer. After Norina came back to the hall, Norina would look for the button in"
+Lian and Norina were hanging out in the hall. They saw a carryall and a drawer. They found a button in the carryall. Norina left the hall. Lian moved the button to the drawer.,"After Norina came back to the hall, where would Lian think Norina would look for the button?",carryall,2ndA,24,"Answer the question based on context:
+
+Context:Lian and Norina were hanging out in the hall. They saw a carryall and a drawer. They found a button in the carryall. Norina left the hall. Lian moved the button to the drawer.
+Question:
+After Norina came back to the hall, where would Lian think Norina would look for the button?","Complete the following paragraph:
+Lian and Norina were hanging out in the hall. They saw a carryall and a drawer. They found a button in the carryall. Norina left the hall. Lian moved the button to the drawer. After Norina came back to the hall, Lian would think Norina would look for the button in"
+Lian and Norina were hanging out in the hall. They saw a carryall and a drawer. They found a button in the carryall. Norina left the hall. Lian moved the button to the drawer.,"After Norina came back to the hall, where would Norina think Lian would look for the button?",carryall,2ndB,24,"Answer the question based on context:
+
+Context:Lian and Norina were hanging out in the hall. They saw a carryall and a drawer. They found a button in the carryall. Norina left the hall. Lian moved the button to the drawer.
+Question:
+After Norina came back to the hall, where would Norina think Lian would look for the button?","Complete the following paragraph:
+Lian and Norina were hanging out in the hall. They saw a carryall and a drawer. They found a button in the carryall. Norina left the hall. Lian moved the button to the drawer. After Norina came back to the hall, Norina would think Lian would look for the button in"
+Kathryne and Norina were hanging out in the bathroom. They saw a cabinet and a tote. They found a chalk in the cabinet. Norina left the bathroom. Kathryne moved the chalk to the tote.,"After Norina came back to the bathroom, where would Norina look for the chalk?",cabinet,1stB,25,"Answer the question based on context:
+
+Context:Kathryne and Norina were hanging out in the bathroom. They saw a cabinet and a tote. They found a chalk in the cabinet. Norina left the bathroom. Kathryne moved the chalk to the tote.
+Question:
+After Norina came back to the bathroom, where would Norina look for the chalk?","Complete the following paragraph:
+Kathryne and Norina were hanging out in the bathroom. They saw a cabinet and a tote. They found a chalk in the cabinet. Norina left the bathroom. Kathryne moved the chalk to the tote. After Norina came back to the bathroom, Norina would look for the chalk in"
+Kathryne and Norina were hanging out in the bathroom. They saw a cabinet and a tote. They found a chalk in the cabinet. Norina left the bathroom. Kathryne moved the chalk to the tote.,"After Norina came back to the bathroom, where would Kathryne think Norina would look for the chalk?",cabinet,2ndA,25,"Answer the question based on context:
+
+Context:Kathryne and Norina were hanging out in the bathroom. They saw a cabinet and a tote. They found a chalk in the cabinet. Norina left the bathroom. Kathryne moved the chalk to the tote.
+Question:
+After Norina came back to the bathroom, where would Kathryne think Norina would look for the chalk?","Complete the following paragraph:
+Kathryne and Norina were hanging out in the bathroom. They saw a cabinet and a tote. They found a chalk in the cabinet. Norina left the bathroom. Kathryne moved the chalk to the tote. After Norina came back to the bathroom, Kathryne would think Norina would look for the chalk in"
+Kathryne and Norina were hanging out in the bathroom. They saw a cabinet and a tote. They found a chalk in the cabinet. Norina left the bathroom. Kathryne moved the chalk to the tote.,"After Norina came back to the bathroom, where would Norina think Kathryne would look for the chalk?",cabinet,2ndB,25,"Answer the question based on context:
+
+Context:Kathryne and Norina were hanging out in the bathroom. They saw a cabinet and a tote. They found a chalk in the cabinet. Norina left the bathroom. Kathryne moved the chalk to the tote.
+Question:
+After Norina came back to the bathroom, where would Norina think Kathryne would look for the chalk?","Complete the following paragraph:
+Kathryne and Norina were hanging out in the bathroom. They saw a cabinet and a tote. They found a chalk in the cabinet. Norina left the bathroom. Kathryne moved the chalk to the tote. After Norina came back to the bathroom, Norina would think Kathryne would look for the chalk in"
+Clem and Vera were hanging out in the shower room. They saw a backpack and a bin. They found a bulb in the backpack. Vera left the shower room. Clem moved the bulb to the bin.,"After Vera came back to the shower room, where would Vera look for the bulb?",backpack,1stB,26,"Answer the question based on context:
+
+Context:Clem and Vera were hanging out in the shower room. They saw a backpack and a bin. They found a bulb in the backpack. Vera left the shower room. Clem moved the bulb to the bin.
+Question:
+After Vera came back to the shower room, where would Vera look for the bulb?","Complete the following paragraph:
+Clem and Vera were hanging out in the shower room. They saw a backpack and a bin. They found a bulb in the backpack. Vera left the shower room. Clem moved the bulb to the bin. After Vera came back to the shower room, Vera would look for the bulb in"
+Clem and Vera were hanging out in the shower room. They saw a backpack and a bin. They found a bulb in the backpack. Vera left the shower room. Clem moved the bulb to the bin.,"After Vera came back to the shower room, where would Clem think Vera would look for the bulb?",backpack,2ndA,26,"Answer the question based on context:
+
+Context:Clem and Vera were hanging out in the shower room. They saw a backpack and a bin. They found a bulb in the backpack. Vera left the shower room. Clem moved the bulb to the bin.
+Question:
+After Vera came back to the shower room, where would Clem think Vera would look for the bulb?","Complete the following paragraph:
+Clem and Vera were hanging out in the shower room. They saw a backpack and a bin. They found a bulb in the backpack. Vera left the shower room. Clem moved the bulb to the bin. After Vera came back to the shower room, Clem would think Vera would look for the bulb in"
+Clem and Vera were hanging out in the shower room. They saw a backpack and a bin. They found a bulb in the backpack. Vera left the shower room. Clem moved the bulb to the bin.,"After Vera came back to the shower room, where would Vera think Clem would look for the bulb?",backpack,2ndB,26,"Answer the question based on context:
+
+Context:Clem and Vera were hanging out in the shower room. They saw a backpack and a bin. They found a bulb in the backpack. Vera left the shower room. Clem moved the bulb to the bin.
+Question:
+After Vera came back to the shower room, where would Vera think Clem would look for the bulb?","Complete the following paragraph:
+Clem and Vera were hanging out in the shower room. They saw a backpack and a bin. They found a bulb in the backpack. Vera left the shower room. Clem moved the bulb to the bin. After Vera came back to the shower room, Vera would think Clem would look for the bulb in"
+Karalynn and Clem were hanging out in the storeroom. They saw a pantry and a hamper. They found a banana in the pantry. Clem left the storeroom. Karalynn moved the banana to the hamper.,"After Clem came back to the storeroom, where would Clem look for the banana?",pantry,1stB,27,"Answer the question based on context:
+
+Context:Karalynn and Clem were hanging out in the storeroom. They saw a pantry and a hamper. They found a banana in the pantry. Clem left the storeroom. Karalynn moved the banana to the hamper.
+Question:
+After Clem came back to the storeroom, where would Clem look for the banana?","Complete the following paragraph:
+Karalynn and Clem were hanging out in the storeroom. They saw a pantry and a hamper. They found a banana in the pantry. Clem left the storeroom. Karalynn moved the banana to the hamper. After Clem came back to the storeroom, Clem would look for the banana in"
+Karalynn and Clem were hanging out in the storeroom. They saw a pantry and a hamper. They found a banana in the pantry. Clem left the storeroom. Karalynn moved the banana to the hamper.,"After Clem came back to the storeroom, where would Karalynn think Clem would look for the banana?",pantry,2ndA,27,"Answer the question based on context:
+
+Context:Karalynn and Clem were hanging out in the storeroom. They saw a pantry and a hamper. They found a banana in the pantry. Clem left the storeroom. Karalynn moved the banana to the hamper.
+Question:
+After Clem came back to the storeroom, where would Karalynn think Clem would look for the banana?","Complete the following paragraph:
+Karalynn and Clem were hanging out in the storeroom. They saw a pantry and a hamper. They found a banana in the pantry. Clem left the storeroom. Karalynn moved the banana to the hamper. After Clem came back to the storeroom, Karalynn would think Clem would look for the banana in"
+Karalynn and Clem were hanging out in the storeroom. They saw a pantry and a hamper. They found a banana in the pantry. Clem left the storeroom. Karalynn moved the banana to the hamper.,"After Clem came back to the storeroom, where would Clem think Karalynn would look for the banana?",pantry,2ndB,27,"Answer the question based on context:
+
+Context:Karalynn and Clem were hanging out in the storeroom. They saw a pantry and a hamper. They found a banana in the pantry. Clem left the storeroom. Karalynn moved the banana to the hamper.
+Question:
+After Clem came back to the storeroom, where would Clem think Karalynn would look for the banana?","Complete the following paragraph:
+Karalynn and Clem were hanging out in the storeroom. They saw a pantry and a hamper. They found a banana in the pantry. Clem left the storeroom. Karalynn moved the banana to the hamper. After Clem came back to the storeroom, Clem would think Karalynn would look for the banana in"
+Karalynn and Florencia were hanging out in the parking. They saw a hamper and a pantry. They found a fork in the hamper. Florencia left the parking. Karalynn moved the fork to the pantry.,"After Florencia came back to the parking, where would Florencia look for the fork?",hamper,1stB,28,"Answer the question based on context:
+
+Context:Karalynn and Florencia were hanging out in the parking. They saw a hamper and a pantry. They found a fork in the hamper. Florencia left the parking. Karalynn moved the fork to the pantry.
+Question:
+After Florencia came back to the parking, where would Florencia look for the fork?","Complete the following paragraph:
+Karalynn and Florencia were hanging out in the parking. They saw a hamper and a pantry. They found a fork in the hamper. Florencia left the parking. Karalynn moved the fork to the pantry. After Florencia came back to the parking, Florencia would look for the fork in"
+Karalynn and Florencia were hanging out in the parking. They saw a hamper and a pantry. They found a fork in the hamper. Florencia left the parking. Karalynn moved the fork to the pantry.,"After Florencia came back to the parking, where would Karalynn think Florencia would look for the fork?",hamper,2ndA,28,"Answer the question based on context:
+
+Context:Karalynn and Florencia were hanging out in the parking. They saw a hamper and a pantry. They found a fork in the hamper. Florencia left the parking. Karalynn moved the fork to the pantry.
+Question:
+After Florencia came back to the parking, where would Karalynn think Florencia would look for the fork?","Complete the following paragraph:
+Karalynn and Florencia were hanging out in the parking. They saw a hamper and a pantry. They found a fork in the hamper. Florencia left the parking. Karalynn moved the fork to the pantry. After Florencia came back to the parking, Karalynn would think Florencia would look for the fork in"
+Karalynn and Florencia were hanging out in the parking. They saw a hamper and a pantry. They found a fork in the hamper. Florencia left the parking. Karalynn moved the fork to the pantry.,"After Florencia came back to the parking, where would Florencia think Karalynn would look for the fork?",hamper,2ndB,28,"Answer the question based on context:
+
+Context:Karalynn and Florencia were hanging out in the parking. They saw a hamper and a pantry. They found a fork in the hamper. Florencia left the parking. Karalynn moved the fork to the pantry.
+Question:
+After Florencia came back to the parking, where would Florencia think Karalynn would look for the fork?","Complete the following paragraph:
+Karalynn and Florencia were hanging out in the parking. They saw a hamper and a pantry. They found a fork in the hamper. Florencia left the parking. Karalynn moved the fork to the pantry. After Florencia came back to the parking, Florencia would think Karalynn would look for the fork in"
+Sara and Meira were hanging out in the squad room. They saw a cupboard and a case. They found a banana in the cupboard. Meira left the squad room. Sara moved the banana to the case.,"After Meira came back to the squad room, where would Meira look for the banana?",cupboard,1stB,29,"Answer the question based on context:
+
+Context:Sara and Meira were hanging out in the squad room. They saw a cupboard and a case. They found a banana in the cupboard. Meira left the squad room. Sara moved the banana to the case.
+Question:
+After Meira came back to the squad room, where would Meira look for the banana?","Complete the following paragraph:
+Sara and Meira were hanging out in the squad room. They saw a cupboard and a case. They found a banana in the cupboard. Meira left the squad room. Sara moved the banana to the case. After Meira came back to the squad room, Meira would look for the banana in"
+Sara and Meira were hanging out in the squad room. They saw a cupboard and a case. They found a banana in the cupboard. Meira left the squad room. Sara moved the banana to the case.,"After Meira came back to the squad room, where would Sara think Meira would look for the banana?",cupboard,2ndA,29,"Answer the question based on context:
+
+Context:Sara and Meira were hanging out in the squad room. They saw a cupboard and a case. They found a banana in the cupboard. Meira left the squad room. Sara moved the banana to the case.
+Question:
+After Meira came back to the squad room, where would Sara think Meira would look for the banana?","Complete the following paragraph:
+Sara and Meira were hanging out in the squad room. They saw a cupboard and a case. They found a banana in the cupboard. Meira left the squad room. Sara moved the banana to the case. After Meira came back to the squad room, Sara would think Meira would look for the banana in"
+Sara and Meira were hanging out in the squad room. They saw a cupboard and a case. They found a banana in the cupboard. Meira left the squad room. Sara moved the banana to the case.,"After Meira came back to the squad room, where would Meira think Sara would look for the banana?",cupboard,2ndB,29,"Answer the question based on context:
+
+Context:Sara and Meira were hanging out in the squad room. They saw a cupboard and a case. They found a banana in the cupboard. Meira left the squad room. Sara moved the banana to the case.
+Question:
+After Meira came back to the squad room, where would Meira think Sara would look for the banana?","Complete the following paragraph:
+Sara and Meira were hanging out in the squad room. They saw a cupboard and a case. They found a banana in the cupboard. Meira left the squad room. Sara moved the banana to the case. After Meira came back to the squad room, Meira would think Sara would look for the banana in"
+Neila and Karalynn were hanging out in the recreation room. They saw a safe and a hamper. They found a vest in the safe. Karalynn left the recreation room. Neila moved the vest to the hamper.,"After Karalynn came back to the recreation room, where would Karalynn look for the vest?",safe,1stB,30,"Answer the question based on context:
+
+Context:Neila and Karalynn were hanging out in the recreation room. They saw a safe and a hamper. They found a vest in the safe. Karalynn left the recreation room. Neila moved the vest to the hamper.
+Question:
+After Karalynn came back to the recreation room, where would Karalynn look for the vest?","Complete the following paragraph:
+Neila and Karalynn were hanging out in the recreation room. They saw a safe and a hamper. They found a vest in the safe. Karalynn left the recreation room. Neila moved the vest to the hamper. After Karalynn came back to the recreation room, Karalynn would look for the vest in"
+Neila and Karalynn were hanging out in the recreation room. They saw a safe and a hamper. They found a vest in the safe. Karalynn left the recreation room. Neila moved the vest to the hamper.,"After Karalynn came back to the recreation room, where would Neila think Karalynn would look for the vest?",safe,2ndA,30,"Answer the question based on context:
+
+Context:Neila and Karalynn were hanging out in the recreation room. They saw a safe and a hamper. They found a vest in the safe. Karalynn left the recreation room. Neila moved the vest to the hamper.
+Question:
+After Karalynn came back to the recreation room, where would Neila think Karalynn would look for the vest?","Complete the following paragraph:
+Neila and Karalynn were hanging out in the recreation room. They saw a safe and a hamper. They found a vest in the safe. Karalynn left the recreation room. Neila moved the vest to the hamper. After Karalynn came back to the recreation room, Neila would think Karalynn would look for the vest in"
+Neila and Karalynn were hanging out in the recreation room. They saw a safe and a hamper. They found a vest in the safe. Karalynn left the recreation room. Neila moved the vest to the hamper.,"After Karalynn came back to the recreation room, where would Karalynn think Neila would look for the vest?",safe,2ndB,30,"Answer the question based on context:
+
+Context:Neila and Karalynn were hanging out in the recreation room. They saw a safe and a hamper. They found a vest in the safe. Karalynn left the recreation room. Neila moved the vest to the hamper.
+Question:
+After Karalynn came back to the recreation room, where would Karalynn think Neila would look for the vest?","Complete the following paragraph:
+Neila and Karalynn were hanging out in the recreation room. They saw a safe and a hamper. They found a vest in the safe. Karalynn left the recreation room. Neila moved the vest to the hamper. After Karalynn came back to the recreation room, Karalynn would think Neila would look for the vest in"
